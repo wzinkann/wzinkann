@@ -7,6 +7,7 @@
   <img align="left" alt="Will's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
+<br />
 
 - My name is Will Zinkann
 - I am currently a third year Computer Science student completing my Bachelor's at Elon University with a minor in Data Science. I am currently searching for an internship for the Summer of 2021 in order to provide real-world experience and  further develop my skills as a Computer Scientist.
