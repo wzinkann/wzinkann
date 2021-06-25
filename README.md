@@ -16,28 +16,27 @@
 - How to reach me: [wzinkann@gmail.com](wzinkann@gmail.com) or 978-727-3737 (Mobile)
 - [Resume](https://docs.google.com/document/d/1bcwxHm5QmI4VZswO8xDlc-rum2rjGx3iaNgwoPbjkGw/edit?usp=sharing)
 
-**Languages and Tools:**  
+**Languages and Tools I Use:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
+- <img align="left" alt="Octave" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /> **Octave**
+- <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
+- <img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />  **HTML**
+- <img align="left" alt="HTML" width="22px" src="https://logo.letskhabar.com//img/?tool=css" />  **CSS**
+- <img align="left" alt="MySQL" width="22px" src="https://img.icons8.com/fluent/2x/mysql-logo.png" alt="mysql" />  **MySQL**
+- <img align="left" alt="SQL" width="22px" src="https://image.flaticon.com/icons/png/128/2772/2772128.png" />  **SQL**
+- <img align="left" alt="PostgreSql" width="22px" src="https://img.icons8.com/color/2x/postgreesql.png" />  **PostgreSql**
+- <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
+- <img align="left" alt="Google Colab" width="22px" src="https://logo.letskhabar.com/img/?tool=google_cloud" /> **Google Colab**
+- <img align="left" alt="Git" width="22px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
+- <img align="left" alt="GitHub" width="22px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
+- <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/spyderide.svg" /> **Spyder**
+- <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/markdown.svg" /> **Markdown**
+- <img align="left" alt="Atom" width="22px" src="https://simpleicons.org/icons/atom.svg" />  **Atom**
+- <img align="left" alt="R" width="22px" src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white"/>  **R**
+- <img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
+- <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/wzinkann/wzinkann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzinkann&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/wzinkann/wzinkann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wzinkann&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 
 <!---
 wzinkann/wzinkann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
