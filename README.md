@@ -20,7 +20,7 @@
 
 - <img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />  **Java**
 - <img align="left" alt="AWS" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/aws.svg" />  **AWS**
-- <img align="left" alt="Springboot" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/springboot.svg" />  **Springboot**
+- <img align="left" alt="Springboot" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/spring.svg" />  **Springboot**
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
 - <img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />  **HTML**
 - <img align="left" alt="MySQL" width="22px" src="https://img.icons8.com/fluent/2x/mysql-logo.png" alt="mysql" />  **MySQL**
