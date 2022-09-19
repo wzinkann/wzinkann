@@ -20,6 +20,8 @@
 - <img align="left" alt="AWS" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/aws.svg" />  **AWS**
 - <img align="left" alt="Springboot" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/spring.svg" />  **Springboot**
 - <img align="left" alt="Python" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" />  **Python**
+- <img align="left" alt="NumPy" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/numpy.svg" />  **NumPy**
+- <img align="left" alt="TensorFlow" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/tensorflow.svg" />  **TensorFlow**
 - <img align="left" alt="React" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg" />  **React**
 - <img align="left" alt="HTML" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/html-5.svg" />  **HTML**
 - <img align="left" alt="MySQL" height="22px" src="https://img.icons8.com/fluent/2x/mysql-logo.png" alt="mysql" />  **MySQL**
