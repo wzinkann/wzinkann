@@ -18,6 +18,7 @@
 
 **Languages and Tools I Use:**  
 
+- <img align="left" alt="Java" width="22px" src="https://simpleicons.org/icons/java.svg" />  **SQL**
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
 - <img align="left" alt="Octave" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /> **Octave**
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
