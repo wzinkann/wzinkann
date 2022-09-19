@@ -22,7 +22,7 @@
 - <img align="left" alt="AWS" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/aws.svg" />  **AWS**
 - <img align="left" alt="Springboot" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/spring.svg" />  **Springboot**
 - <img align="left" alt="Python" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" />  **Python**
-- - <img align="left" alt="React" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg" />  **React**
+- <img align="left" alt="React" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg" />  **React**
 - <img align="left" alt="HTML" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/html-5.svg" />  **HTML**
 - <img align="left" alt="MySQL" width="22px" src="https://img.icons8.com/fluent/2x/mysql-logo.png" alt="mysql" />  **MySQL**
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
