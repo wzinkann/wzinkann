@@ -1,6 +1,4 @@
-# Hello! 
 
-- My name is Will Zinkann
 - Full-Stack Engineer
 - How to reach me: [wzinkann@gmail.com](wzinkann@gmail.com)
 
