@@ -1,0 +1,2 @@
+- Full-Stack Engineer working in healthcare
+- wzinkann@gmail.com
